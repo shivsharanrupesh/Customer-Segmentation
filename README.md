@@ -1,4 +1,4 @@
-# Customer-Segmentation# M
+# Customer-Segmentation 
 ### Objective
 The goal of this project is to develop a customer segmentation model to provide targeted recommendations for products and services like saving plans, loans, and wealth management to specific customer groups.
 
